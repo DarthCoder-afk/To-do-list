@@ -26,7 +26,7 @@ Then press SEND.
 
 ![ss](https://github.com/DarthCoder-afk/To-do-list/assets/93801825/bd7453f7-6bee-4b7a-8c46-32b5ccb9aff5)
 
-Note: in testing POST and PUT you need to go to the "Body", choose raw, and choose JSON. Then type the data like this:
+Note: in testing POST and PUT endpoints you need to go to the "Body", choose raw, and choose JSON. Then type the data like this:
 
 ![image](https://github.com/DarthCoder-afk/To-do-list/assets/93801825/41d75226-c337-4c36-8725-4bf63fc4eda6)
 
