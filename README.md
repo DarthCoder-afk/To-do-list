@@ -24,9 +24,11 @@ Delete Task (DELETE): http://127.0.0.1:5000/delete-task/1
 
 Then press SEND.
 
+Note: The number "1" at the GET, PUT, and DELETE endpoints represents the "task_id"
+
 ![ss](https://github.com/DarthCoder-afk/To-do-list/assets/93801825/bd7453f7-6bee-4b7a-8c46-32b5ccb9aff5)
 
-Note: in testing POST and PUT endpoints you need to go to the "Body", choose raw, and choose JSON. Then type the data like this:
+Note: In testing POST and PUT endpoints you need to go to the "Body", choose raw, and choose JSON. Then type the data like this:
 
 ![image](https://github.com/DarthCoder-afk/To-do-list/assets/93801825/41d75226-c337-4c36-8725-4bf63fc4eda6)
 
