@@ -8,11 +8,11 @@ Next, install Postman to test the API and its functionalities. You can install i
 
 ![image](https://github.com/DarthCoder-afk/To-do-list/assets/93801825/7fbee5b9-0630-42fc-ac9e-dfddb7fe147a)
 
-After installing you may now run the API in your IDE (eg., Pycharm), and open up Postman.
+After it is installed you may now run the API in your IDE (eg., Pycharm).
 
 ![image](https://github.com/DarthCoder-afk/To-do-list/assets/93801825/41f7a91f-602a-4cae-b4b2-93d2a7692f52)
 
-Once opened, click the "+" button and paste the url (eg., http://127.0.0.1:5000) and call the endpoints like:
+Open POSTMAN, click the "+" button and paste the url (eg., http://127.0.0.1:5000) and call the endpoints like:
 
 Retrieve task (GET): http://127.0.0.1:5000/get-task/1
 
