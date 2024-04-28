@@ -1,6 +1,6 @@
 # To-do-list
 
-To run this API, you need to install a module called Flask. To do this, open up your terminal and type pip install flask.
+To run this API, you need to install a module called Flask. To do this, open up your IDE (eg., Pycharm) then open your terminal and type pip install flask.
 
 ![image](https://github.com/DarthCoder-afk/To-do-list/assets/93801825/6f957ba1-e539-4bc7-93bb-a6ebf67f3561)
 
